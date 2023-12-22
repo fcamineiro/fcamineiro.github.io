@@ -1,6 +1,6 @@
 # Fabiano C. Araujo
 Uniontown OH 44685  
-[LinkedIn](https://linkedin.com/in/fcamineiro/)
+[LinkedIn](https://linkedin.com/in/fcamineiro/){:target="_blank"}
 
 ## Objective
 As a data scientist and sports medicine physician, my career is defined by a dedication to analyzing and interpreting complex data with a focus on endurance sports. I possess a track record of leveraging data through machine learning to enhance athletic performance, inform training programs, and underpin health strategies. My expertise lies in distilling datasets into actionable insights that drive competitive advantage and support athlete health and resilience.
@@ -32,7 +32,12 @@ As a data scientist and sports medicine physician, my career is defined by a ded
 - Major in Exercise Physiology and Adult Fitness.
 - GPA: 4.0
 
-### [Other Education Entries]
+### Master of Science | Federal University of Minas Gerais | Graduated: Sep 2006
+- Dissertation: “Expression of the proto-oncogene c-fos and differential expression of c-Fos, phosphorylated c-Fos and ERbeta proteins in the human testis.”
+- Major in Human Physiology.
+
+### Doctor of Medicine | Institute Jose Bonifacio Lafayette de Andrada | Graduated: Jul 2004
+- Monograph: “Characteristics of trauma following traffic accidents in Barbacena, concerning motorcyclists and passengers from January 2001 to August 2002.”
 
 ## Skills
 ### Technical Skills
@@ -51,15 +56,19 @@ As a data scientist and sports medicine physician, my career is defined by a ded
 - Leadership
 
 ## Peer-Reviewed Publications
-[ORCID Profile](https://orcid.org/0000-0002-8384-0480)
+[ORCID Profile](https://orcid.org/0000-0002-8384-0480){:target="_blank"}
 
 ## Achievements
 - One-year bioengineering junior postdoc research scholarship | CAPES | 2015
 - Top 10 original papers | American Physiological Society | May 2015
-- [Other Achievements]
+- Four-year doctorate research scholarship | Federal University of Minas Gerais | 2011
+- One-year teaching assistantship | University of Akron | 2007
+- Two-year research scholarship | Federal University of Minas Gerais | 2004
+- Top 3 monographs | Institute Jose Bonifacio Lafayette de Andrada | 2004
+- Two-year teaching assistantship | Institute Jose Bonifacio Lafayette de Andrada | 2001
 
-## Professional Memberships
-- Member, Brazilian Society for Sports Medicine
+## Professional Membership
+- Brazilian Society for Sports Medicine
 
 ## Languages
 - English
