@@ -36,7 +36,7 @@ As a data scientist and sports medicine physician, my career is defined by a ded
 - Dissertation: “Expression of the proto-oncogene c-fos and differential expression of c-Fos, phosphorylated c-Fos and ERbeta proteins in the human testis.”
 - Major in Human Physiology.
 
-### Doctor of Medicine | Institute Jose Bonifacio Lafayette de Andrada | Graduated: Jul 2004
+### Doctor of Medicine | School of Medicine Jose Bonifacio Lafayette de Andrada | Graduated: Jul 2004
 - Monograph: “Characteristics of trauma following traffic accidents in Barbacena, concerning motorcyclists and passengers from January 2001 to August 2002.”
 
 ## Skills
@@ -59,13 +59,13 @@ As a data scientist and sports medicine physician, my career is defined by a ded
 [ORCID Profile](https://orcid.org/0000-0002-8384-0480){:target="_blank"}
 
 ## Achievements
-- One-year bioengineering junior postdoc research scholarship | CAPES | 2015
-- Top 10 original papers | American Physiological Society | May 2015
-- Four-year doctorate research scholarship | Federal University of Minas Gerais | 2011
-- One-year teaching assistantship | University of Akron | 2007
-- Two-year research scholarship | Federal University of Minas Gerais | 2004
-- Top 3 monographs | Institute Jose Bonifacio Lafayette de Andrada | 2004
-- Two-year teaching assistantship | Institute Jose Bonifacio Lafayette de Andrada | 2001
+- One-year bioengineering junior postdoc research scholarship, CAPES, 2015
+- Top 10 original papers, American Physiological Society, May 2015
+- Four-year doctorate research scholarship, Federal University of Minas Gerais, 2011
+- One-year teaching assistantship, University of Akron, 2007
+- Two-year research scholarship, Federal University of Minas Gerais, 2004
+- Top 3 monographs, School of Medicine Jose Bonifacio Lafayette de Andrada, 2004
+- Two-year teaching assistantship, School of Medicine Jose Bonifacio Lafayette de Andrada, 2001
 
 ## Professional Membership
 - Brazilian Society for Sports Medicine
