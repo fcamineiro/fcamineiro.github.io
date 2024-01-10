@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Fetch and display projects from GitHub
-    fetchProjects({ username: 'fcamineiro' });
+    fetchGitHubProjects({ username: 'fcamineiro' });
 
     // Other dynamic functionalities can be added here
 });
 
-function fetchProjects({ username }) {
+function fetchGitHubProjects({ username }) {
     const githubApi = `https://api.github.com/users/${username}/repos`;
 
     fetch(githubApi)
