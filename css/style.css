@@ -1,9 +1,8 @@
 :root {
-    --primary-color: #5E72E4;
-    --secondary-color: #2DCE89;
-    --background-color: #F4F5F7;
-    --text-color: #32325D;
-    --white: #FFFFFF;
+    --primary-color: #005f73;
+    --secondary-color: #2a9d8f;
+    --background-color: #f4f4f4;
+    --text-color: #333;
     --shadow-color: rgba(0,0,0,0.1);
 }
 
@@ -14,14 +13,14 @@
 }
 
 body {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     color: var(--text-color);
     background-color: var(--background-color);
     line-height: 1.6;
 }
 
 header, footer {
-    color: var(--white);
+    color: var(--background-color);
     background-color: var(--primary-color);
     padding: 1rem 0;
     box-shadow: 0 2px 5px var(--shadow-color);
@@ -40,8 +39,8 @@ header nav ul li, footer p {
 
 header nav ul li a {
     text-decoration: none;
-    color: var(--white);
-    font-weight: bold;
+    color: var(--background-color);
+    /* font-weight: bold; */
     transition: color 0.3s;
 }
 
@@ -58,44 +57,15 @@ main {
 
 /* Increased indentation for list items */
 main li {
-    margin-left: 30px;  /* Adjust as needed for desired indentation */
+    margin-left: 30px;
 }
 
 section {
     margin-bottom: 2rem;
     padding: 1rem;
-    background-color: var(--white);
+    background-color: var(--background-color);
     box-shadow: 0 2px 5px var(--shadow-color);
     border-radius: 10px;
-}
-
-@media (max-width: 800px) {
-    main {
-        max-width: 95%;
-        padding: 10px;
-    }
-}
-
-@media (max-width: 500px) {
-    main {
-        padding: 5px;
-    }
-}
-
-@media (min-width: 768px) {
-    body {
-        font-size: 18px;
-    }
-}
-
-@media (max-width: 767px) {
-    header nav ul {
-        flex-direction: column;
-    }
-
-    header nav ul li {
-        margin-bottom: 0.5rem;
-    }
 }
 
 /* Text alignment classes */
