@@ -19,7 +19,8 @@ body {
     line-height: 1.6;
 }
 
-header, footer {
+header {
+    font-family: 'Arial', Helvetica, sans-serif;
     color: var(--background-color);
     background-color: var(--primary-color);
     padding: 1rem 0;
@@ -66,6 +67,15 @@ section {
     background-color: var(--background-color);
     box-shadow: 0 2px 5px var(--shadow-color);
     border-radius: 10px;
+}
+
+footer {
+    font-family: 'Monaco', Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: var(--text-color);
+    background-color: var(--shadow-color);
+    padding: 1rem 0;
+    box-shadow: 0 2px 5px var(--shadow-color);
 }
 
 /* Text alignment classes */
